@@ -1,3 +1,4 @@
+'''https://leetcode.com/problems/string-compression/submissions/1399026651/?envType=problem-list-v2&envId=string'''
 #import string 
 #chars=["a","a","b","b","c","c","c"]
 class Solution:
