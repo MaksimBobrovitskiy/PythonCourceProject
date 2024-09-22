@@ -1,3 +1,5 @@
+''' https://leetcode.com/problems/longest-substring-without-repeating-characters?envType=problem-list-v2&envId=string'''
+
 # моё для проверок
 s="dvdf"
 ans=s[0]
