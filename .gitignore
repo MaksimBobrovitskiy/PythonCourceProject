@@ -1,0 +1,4 @@
+.venv/
+.flake8
+pyproject.toml
+.pre-commit-config.yaml
